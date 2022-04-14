@@ -1,4 +1,4 @@
-## this folder is for midterm collection
+## this folder is for midterm
 
 Name:Alfian Fakhrezi;
 
